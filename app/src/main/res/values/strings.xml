@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VSGAAppIntent</string>
+    <string name="btntext">Send!</string>
+</resources>
